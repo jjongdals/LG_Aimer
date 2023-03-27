@@ -1,5 +1,5 @@
-#  LG_Aimer AI Hackathon
- 스마트 공장 제품 품질분류 시스템 개발 🏭
+#  LG_Aimers AI Hackathon
+ 스마트 공장 제품 품질분류 시스템 🏭
 ------
 ### 1. Environment
 
