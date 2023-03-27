@@ -35,4 +35,5 @@ lightgbm은 설치되어 있을 수도 있으니 확인한 후 설치를 진행�
 ---------
 
 ### 3. License
-Mit License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
